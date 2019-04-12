@@ -16,7 +16,8 @@
 
 ## JAVA
 
-* [JVM](java/jvm.md)
+* [JVM](java/jvm/README.md)
+  * [Java 内存模型](java/jvm/jmm.md)
 
 ## Go
 
