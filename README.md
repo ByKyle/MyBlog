@@ -2,7 +2,7 @@
 description: 这里记录着我的后端开发学习之路。
 ---
 
-# Hello, world!
+# Stay Hungry & Foolish
 
 ## Who am I ？
 

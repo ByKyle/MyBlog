@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hello, world!](README.md)
+* [Stay Hungry & Foolish](README.md)
 * [数据结构与算法分析](data-structure-and-algorithm/README.md)
   * [基本数据结构](data-structure-and-algorithm/base-data-structure/README.md)
     * [链表](data-structure-and-algorithm/base-data-structure/lian-biao.md)
