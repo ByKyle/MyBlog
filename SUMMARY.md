@@ -7,7 +7,7 @@
     * [树](data-structure-and-algorithm/base-data-structure/shu.md)
   * [笔面试算法题](data-structure-and-algorithm/exams/README.md)
     * [动态规划](data-structure-and-algorithm/exams/dynamic-programming.md)
-    * [递归](data-structure-and-algorithm/exams/di-gui.md)
+    * [递归](data-structure-and-algorithm/exams/recursive.md)
 * [JAVA](java/README.md)
   * [JVM](java/jvm.md)
   * [并发编程](java/concurrent-programming.md)
