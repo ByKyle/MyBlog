@@ -18,6 +18,8 @@
 
 * [JVM](java/jvm/README.md)
   * [Java 内存模型](java/jvm/jmm.md)
+* [并发编程](java/concurrent-programming/README.md)
+  * [synchronized](java/concurrent-programming/synchronized.md)
 
 ## Go
 
