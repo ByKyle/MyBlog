@@ -2,7 +2,9 @@
 
 * [Hello, world!](README.md)
 * [数据结构与算法分析](data-structure-and-algorithm/README.md)
-  * [基本数据结构](data-structure-and-algorithm/base-data-structure.md)
+  * [基本数据结构](data-structure-and-algorithm/base-data-structure/README.md)
+    * [链表](data-structure-and-algorithm/base-data-structure/lian-biao.md)
+    * [树](data-structure-and-algorithm/base-data-structure/shu.md)
   * [笔面试算法题](data-structure-and-algorithm/exams.md)
 * [JAVA](java.md)
 * [GoLang](golang.md)
