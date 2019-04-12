@@ -8,7 +8,7 @@
 
 ## 笔面试算法题
 
-* [动态规划](bi-mian-shi-suan-fa-ti/dynamic-programing.md)
+* [动态规划](code-exams/dynamic-programing.md)
 
 ## 操作系统
 
