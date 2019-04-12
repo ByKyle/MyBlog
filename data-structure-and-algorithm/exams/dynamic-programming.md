@@ -2,5 +2,3 @@
 
 ## 背包问题
 
-![](../../.gitbook/assets/yk.jpg)
-
