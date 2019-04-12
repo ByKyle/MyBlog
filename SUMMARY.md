@@ -4,7 +4,11 @@
 
 ## 数据结构
 
+* [树](data-structure/tree.md)
+
 ## 笔面试算法题
+
+* [动态规划](bi-mian-shi-suan-fa-ti/dynamic-programing.md)
 
 ## 操作系统
 
@@ -13,4 +17,6 @@
 ## JAVA
 
 * [JVM](java/jvm.md)
+
+## Go
 
