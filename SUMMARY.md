@@ -20,4 +20,6 @@
     * [Channels](golang/concurrent/channels.md)
 * [操作系统](os.md)
 * [计算机网络](computer-network.md)
+* [MySQL](mysql/README.md)
+  * [索引](mysql/index.md)
 
